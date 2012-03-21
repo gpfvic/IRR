@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: review.aux
+The style file: plain.bst
+Database file #1: refs.bib
+A bad cross reference---entry "BreeseHK98"
+refers to entry "conf/uai/1998", which doesn't exist
+A bad cross reference---entry "PennockHLG00"
+refers to entry "conf/uai/2000", which doesn't exist
+Warning--I didn't find a database entry for "conf/uai/2000"
+Warning--I didn't find a database entry for "conf/uai/1998"
+Warning--empty publisher in Oard_Kim_1998
+Warning--empty year in Paterek_2007
+Warning--empty booktitle in Ungar98clusteringmethods
+You've used 27 entries,
+            2118 wiz_defined-function locations,
+            696 strings with 9704 characters,
+and the built_in function-call counts, 11208 in all, are:
+= -- 1177
+> -- 436
+< -- 16
++ -- 169
+- -- 142
+* -- 744
+:= -- 1714
+add.period$ -- 94
+call.type$ -- 27
+change.case$ -- 149
+chr.to.int$ -- 0
+cite$ -- 30
+duplicate$ -- 487
+empty$ -- 905
+format.name$ -- 142
+if$ -- 2505
+int.to.chr$ -- 0
+int.to.str$ -- 27
+missing$ -- 28
+newline$ -- 138
+num.names$ -- 58
+pop$ -- 158
+preamble$ -- 1
+purify$ -- 123
+quote$ -- 0
+skip$ -- 382
+stack$ -- 0
+substring$ -- 787
+swap$ -- 170
+text.length$ -- 16
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 106
+warning$ -- 3
+while$ -- 115
+width$ -- 29
+write$ -- 330
+(There were 2 error messages)

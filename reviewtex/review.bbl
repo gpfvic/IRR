@@ -1,0 +1,174 @@
+\begin{thebibliography}{10}
+
+\bibitem{Adomavicius:2005:TNG:1070611.1070751}
+G.~Adomavicius and A.~Tuzhilin.
+\newblock Toward the next generation of recommender systems: a survey of the
+  state-of-the-art and possible extensions.
+\newblock {\em Knowledge and Data Engineering, IEEE Transactions on}, 17(6):734
+  -- 749, june 2005.
+
+\bibitem{Balabanovic:1997:FCC:245108.245124}
+Marko Balabanovi\'{c} and Yoav Shoham.
+\newblock Fab: content-based, collaborative recommendation.
+\newblock {\em Commun. ACM}, 40:66--72, March 1997.
+
+\bibitem{4470228}
+R.M. Bell and Y.~Koren.
+\newblock Scalable collaborative filtering with jointly derived neighborhood
+  interpolation weights.
+\newblock In {\em Data Mining, 2007. ICDM 2007. Seventh IEEE International
+  Conference on}, pages 43 --52, oct. 2007.
+
+\bibitem{Bell:2007:MRM:1281192.1281206}
+Robert Bell, Yehuda Koren, and Chris Volinsky.
+\newblock Modeling relationships at multiple scales to improve accuracy of
+  large recommender systems.
+\newblock In {\em Proceedings of the 13th ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, KDD '07, pages 95--104, New York,
+  NY, USA, 2007. ACM.
+
+\bibitem{Bell:2007:LNP}
+Robert~M. Bell and Yehuda Koren.
+\newblock Lessons from the netflix prize challenge.
+\newblock {\em SIGKDD Explor. Newsl.}, 9:75--79, December 2007.
+
+\bibitem{Billsus:1998:LCI:645527.657311}
+Daniel Billsus and Michael~J. Pazzani.
+\newblock Learning collaborative information filters.
+\newblock In {\em Proceedings of the Fifteenth International Conference on
+  Machine Learning}, ICML '98, pages 46--54, San Francisco, CA, USA, 1998.
+  Morgan Kaufmann Publishers Inc.
+
+\bibitem{BreeseHK98}
+John~S. Breese, David Heckerman, and Carl~Myers Kadie.
+\newblock Empirical analysis of predictive algorithms for collaborative
+  filtering.
+\newblock In Gregory~F. Cooper and Serafín Moral, editors, {\em UAI}, pages
+  43--52. Morgan Kaufmann, 1998.
+
+\bibitem{Das:2007:GNP}
+Abhinandan~S. Das, Mayur Datar, Ashutosh Garg, and Shyam Rajaram.
+\newblock Google news personalization: scalable online collaborative filtering.
+\newblock In {\em Proceedings of the 16th international conference on World
+  Wide Web}, WWW '07, pages 271--280, New York, NY, USA, 2007. ACM.
+
+\bibitem{Dean:2008:MSD:1327452.1327492}
+Jeffrey Dean and Sanjay Ghemawat.
+\newblock Mapreduce: simplified data processing on large clusters.
+\newblock {\em Commun. ACM}, 51:107--113, January 2008.
+
+\bibitem{Ding:2005:TWC:1099554.1099689}
+Yi~Ding and Xue Li.
+\newblock Time weight collaborative filtering.
+\newblock In {\em Proceedings of the 14th ACM international conference on
+  Information and knowledge management}, CIKM '05, pages 485--492, New York,
+  NY, USA, 2005. ACM.
+
+\bibitem{Herlocker:2000:ECF}
+Jonathan~L. Herlocker, Joseph~A. Konstan, and John Riedl.
+\newblock Explaining collaborative filtering recommendations.
+\newblock In {\em Proceedings of the 2000 ACM conference on Computer supported
+  cooperative work}, CSCW '00, pages 241--250, New York, NY, USA, 2000. ACM.
+
+\bibitem{Hofmann:1999}
+Thomas Hofmann.
+\newblock Probabilistic latent semantic indexing.
+\newblock In {\em Proceedings of the 22nd annual international ACM SIGIR
+  conference on Research and development in information retrieval}, SIGIR '99,
+  pages 50--57, New York, NY, USA, 1999. ACM.
+
+\bibitem{Hofmann:2003:CFV:860435.860483}
+Thomas Hofmann.
+\newblock Collaborative filtering via gaussian probabilistic latent semantic
+  analysis.
+\newblock In {\em Proceedings of the 26th annual international ACM SIGIR
+  conference on Research and development in informaion retrieval}, SIGIR '03,
+  pages 259--266, New York, NY, USA, 2003. ACM.
+
+\bibitem{Hofmann:2004:LSM}
+Thomas Hofmann.
+\newblock Latent semantic models for collaborative filtering.
+\newblock {\em ACM Trans. Inf. Syst.}, 22:89--115, January 2004.
+
+\bibitem{Hofmann:1999:LCM}
+Thomas Hofmann and Jan Puzicha.
+\newblock Latent class models for collaborative filtering.
+\newblock In {\em Proceedings of the Sixteenth International Joint Conference
+  on Artificial Intelligence}, IJCAI '99, pages 688--693, San Francisco, CA,
+  USA, 1999. Morgan Kaufmann Publishers Inc.
+
+\bibitem{4781121}
+Yifan Hu, Y.~Koren, and C.~Volinsky.
+\newblock Collaborative filtering for implicit feedback datasets.
+\newblock In {\em Data Mining, 2008. ICDM '08. Eighth IEEE International
+  Conference on}, pages 263 --272, dec. 2008.
+
+\bibitem{5197422}
+Y.~Koren, R.~Bell, and C.~Volinsky.
+\newblock Matrix factorization techniques for recommender systems.
+\newblock {\em Computer}, 42(8):30 --37, aug. 2009.
+
+\bibitem{Koren:2008:FMN:1401890.1401944}
+Yehuda Koren.
+\newblock Factorization meets the neighborhood: a multifaceted collaborative
+  filtering model.
+\newblock In {\em Proceedings of the 14th ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, KDD '08, pages 426--434, New York,
+  NY, USA, 2008. ACM.
+
+\bibitem{Koren:2010:CFT:1721654.1721677}
+Yehuda Koren.
+\newblock Collaborative filtering with temporal dynamics.
+\newblock {\em Commun. ACM}, 53:89--97, April 2010.
+
+\bibitem{1167344}
+G.~Linden, B.~Smith, and J.~York.
+\newblock Amazon.com recommendations: item-to-item collaborative filtering.
+\newblock {\em Internet Computing, IEEE}, 7(1):76 -- 80, jan/feb 2003.
+
+\bibitem{McNee:2006:AEA}
+Sean~M. McNee, John Riedl, and Joseph~A. Konstan.
+\newblock Being accurate is not enough: how accuracy metrics have hurt
+  recommender systems.
+\newblock In {\em CHI '06 extended abstracts on Human factors in computing
+  systems}, CHI EA '06, pages 1097--1101, New York, NY, USA, 2006. ACM.
+
+\bibitem{Oard_Kim_1998}
+Douglas~W Oard and Jinmook Kim.
+\newblock {\em Implicit Feedback for Recommender Systems}, pages 81--83.
+\newblock 1998.
+
+\bibitem{Paterek_2007}
+Arkadiusz Paterek.
+\newblock Improving regularized singular value decomposition for collaborative
+  filtering.
+\newblock {\em Statistics}, 2007:2--5.
+
+\bibitem{PennockHLG00}
+David~M. Pennock, Eric Horvitz, Steve Lawrence, and C.~Lee Giles.
+\newblock Collaborative filtering by personality diagnosis: A hybrid memory and
+  model-based approach.
+\newblock In Craig Boutilier and Moisés Goldszmidt, editors, {\em UAI}, pages
+  473--480. Morgan Kaufmann, 2000.
+
+\bibitem{Resnick:1994:GOA:192844.192905}
+Paul Resnick, Neophytos Iacovou, Mitesh Suchak, Peter Bergstrom, and John
+  Riedl.
+\newblock Grouplens: an open architecture for collaborative filtering of
+  netnews.
+\newblock In {\em Proceedings of the 1994 ACM conference on Computer supported
+  cooperative work}, CSCW '94, pages 175--186, New York, NY, USA, 1994. ACM.
+
+\bibitem{Sarwar00applicationof}
+Badrul~M. Sarwar, George Karypis, Joseph~A. Konstan, and John~T. Riedl.
+\newblock Application of dimensionality reduction in recommender system -- a
+  case study.
+\newblock In {\em IN ACM WEBKDD WORKSHOP}, 2000.
+
+\bibitem{Ungar98clusteringmethods}
+Lyle Ungar, Dean Foster, Ellen Andre, Star Wars, Fred~Star Wars, Dean~Star
+  Wars, and Jason~Hiver Whispers.
+\newblock Clustering methods for collaborative filtering.
+\newblock AAAI Press, 1998.
+
+\end{thebibliography}

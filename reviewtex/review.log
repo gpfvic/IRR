@@ -1,0 +1,209 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2011.7.3)  19 JAN 2012 14:42
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**review.tex
+(./review.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2004/10/17 UCS: Unicode input support
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2004/10/17 UCS: Unicode global data
+)
+\uc@secondtry=\count87
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count88
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2009/07/02 v2.20.1
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip45
+\thm@postskip=\skip46
+\thm@headsep=\skip47
+\dth@everypar=\toks25
+) (./review.aux)
+\openout1 = `review.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 13.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 13.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [1
+
+]
+(./review.toc)
+\tf@toc=\write3
+\openout3 = `review.toc'.
+
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 64--67
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
+
+ []
+
+
+Overfull \hbox (1.9237pt too wide) in paragraph at lines 85--87
+[]\OT1/cmr/m/n/12 [[]] presents two ex-per-i-ments on di-men-sion-al-ity re-duc
+-tion in rec-om-mender
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
+
+ []
+
+[7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 105--108
+
+ []
+
+[9]
+Overfull \hbox (16.70557pt too wide) in paragraph at lines 117--119
+\OT1/cmr/m/n/12 and the user's rat-ing scale is the av-er-age. The sec-ond leve
+l, $\OML/cmm/m/it/12 q[]\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 R[]
+\OMS/cmsy/m/n/12 j[] [][]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 r[] \OMS/cmsy/m/n/12
+ ^^@
+ []
+
+[10]
+Overfull \hbox (4.98756pt too wide) in paragraph at lines 122--124
+\OT1/cmr/m/n/12 Koren ap-plied the method into col-lab-o-ra-tive fil-ter-ing re
+c-om-mender ap-proaches
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--136
+
+ []
+
+[11] (./review.bbl [12]
+(/usr/local/texlive/2011/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
+) [13] [14])
+[15] (./review.aux) ) 
+Here is how much of TeX's memory you used:
+ 1604 strings out of 493634
+ 21502 string characters out of 3143401
+ 77127 words of memory out of 3000000
+ 4928 multiletter control sequences out of 15000+200000
+ 13051 words of font info for 50 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 23i,6n,28p,2303b,606s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on review.dvi (15 pages, 47128 bytes).

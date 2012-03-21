@@ -1,0 +1,41 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf230
+{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa240
+
+\f0\fs24 \cf0 \
+\pard\pardeftab720\sa240
+
+\fs30 \cf0 The review presents the algorithms used in the recommender sys- tems and focus on collaborative filtering. This review briefly describe the advantages and limitations of collaborative filtering and how this method is applied in the industry area. The review also introduces works on the methods to improve the accuracy of collaborative fil- tering and hybrid systems combining collaborative and content-based methods.
+\fs24 \
+\pard\pardeftab720\sa240
+
+\fs46 \cf0 1 Introduction
+\fs24 \
+\pard\pardeftab720\sa240
+
+\fs32 \cf0 As e-commerce enjoys a boom and lots people are using those services such Amazon, Ebay and so on, recommender systems becomes an important issue in the research area. Recommender systems recommend a personalized and ranked information or items to users based on users\'92 profiles, preferences and experiences. The recommender system compares the items and users\'92 infor- mation and find correlations among them and make recommendations. [1] presents an overview of the academic and industry research areas of recom- mender systems and analyses the advantages and limitations of the current recommendation methods in the following three fields: content-based, col- laborative, and hybrid recommend methods. [1] also discusses some possible extensions to improve the recommender systems\'92 capabilities.
+\fs24 \
+
+\fs32 Collaborative filtering is one of the most important and widely applied methods in recommender systems. Collaborative filtering recommend items to users based on the items\'92 scores rated by users and users\'92 historic prefer- ences. The common ways of collaborative filtering process is first group users with same preferences or \'92taste\'92 together and then find the similar items ac- cording to the ratings from the users in the same group. Finally the items that are most liked will be recommended to the users who have not rate this.
+\fs24 \
+
+\fs32 1
+\fs24 \
+
+\fs32 According to [4], collaborative filtering algorithms can be classified into 2 general classes: Memory-based and Model-based. Memory-based algorithm uses the items\'92 ratings rated by all users and users\'92 ratings rated by them- selves to compute the similarity among the users or items and then make recommendations. This mechanism is easy to implement and effective in some specific areas. However, [3] raises performance concerns as this method are not justified by a formal model and doubts the suitability of a similarity comparison among items without analysing the interactions within all the neighbours. Model-based algorithm is to build models using statistics meth- ods to find the patterns based on the training data and then use these models to make recommendations. [13] presents the techniques used in Model-based algorithms, such as Bayesian Networks, cluster models, latent factor models, Markov decision tree models, and so on. Many works, such as [9], com- bine the Memory-based and Model-based algorithms to improve prediction accuracy by utilizing the advantages of them.
+\fs24 \
+\pard\pardeftab720\sa240
+
+\fs46 \cf0 2 Application of Recommendation Systems
+\fs24 \
+\pard\pardeftab720\sa240
+
+\fs32 \cf0 [11] presents recommendation algorithms to personalize Amazon services for each user, named item-to-item collaborative filtering. The algorithm builds a table of items similarities based on users\'92 purchase history and then build a product-to-product matrix for all items and computing each pair\'92s similarity using cosine measure.
+\fs24 \
+
+\fs32 [6] describes the way using collaborative filtering by MinHash clustering, Probabilistic Latent Semantic Indexing, and covisitation counts to recom- mend personalized news for Google News users. Their method is content agnostic and consequently domain separately.
+\fs24 \
+}

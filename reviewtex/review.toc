@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}Collaborative Filtering}{3}
+\contentsline {section}{\numberline {3}Probabilistic Latent Semantic Analysis}{5}
+\contentsline {section}{\numberline {4}Singular Value Decomposition}{7}
+\contentsline {section}{\numberline {5}Explicit and Implicit Feedback}{7}
+\contentsline {section}{\numberline {6}Hybrid model}{8}
+\contentsline {section}{\numberline {7}Temporal Dynamics}{11}
+\contentsline {section}{\numberline {8}Conclusion}{11}
